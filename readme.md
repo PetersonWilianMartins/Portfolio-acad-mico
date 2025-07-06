@@ -21,7 +21,6 @@ O portfólio foi criado com o objetivo de:
 
 - [HTML5](w)
 - [CSS3](w)
-- [JavaScript](w)
 - [Google Fonts](w)
 - [Boxicons CDN (em alguns projetos)](w)
 
